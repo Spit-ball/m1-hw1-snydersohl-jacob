@@ -1,7 +1,6 @@
 # My First Coding Assignment
 
-Markup :
-![picture alt](https://imgur.com/gallery/TWAZ0rC "I love salad, but I love Ron Swanson more.")
+![Ron Swanson is my main mood.](/assets/ronswanson.jpg)
 
 ## About Me
 
